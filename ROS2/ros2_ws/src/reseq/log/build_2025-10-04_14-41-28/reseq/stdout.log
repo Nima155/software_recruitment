@@ -1,0 +1,41 @@
+running egg_info
+creating build/reseq/reseq.egg-info
+writing build/reseq/reseq.egg-info/PKG-INFO
+writing dependency_links to build/reseq/reseq.egg-info/dependency_links.txt
+writing entry points to build/reseq/reseq.egg-info/entry_points.txt
+writing requirements to build/reseq/reseq.egg-info/requires.txt
+writing top-level names to build/reseq/reseq.egg-info/top_level.txt
+writing manifest file 'build/reseq/reseq.egg-info/SOURCES.txt'
+reading manifest file 'build/reseq/reseq.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/reseq/reseq.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build
+creating /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build/lib
+creating /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build/lib/reseq
+copying reseq/temperature_logger.py -> /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build/lib/reseq
+copying reseq/__init__.py -> /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build/lib/reseq
+copying reseq/temperature_sensor.py -> /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build/lib/reseq
+running install
+running install_lib
+creating /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/python3.12/site-packages/reseq
+copying /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build/lib/reseq/temperature_logger.py -> /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/python3.12/site-packages/reseq
+copying /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build/lib/reseq/__init__.py -> /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/python3.12/site-packages/reseq
+copying /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/build/lib/reseq/temperature_sensor.py -> /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/python3.12/site-packages/reseq
+byte-compiling /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/python3.12/site-packages/reseq/temperature_logger.py to temperature_logger.cpython-312.pyc
+byte-compiling /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/python3.12/site-packages/reseq/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/python3.12/site-packages/reseq/temperature_sensor.py to temperature_sensor.cpython-312.pyc
+running install_data
+creating /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/share/ament_index
+creating /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/share/ament_index/resource_index
+creating /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/share/ament_index/resource_index/packages
+copying resource/reseq -> /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/share/ament_index/resource_index/packages
+copying package.xml -> /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/share/reseq
+running install_egg_info
+Copying build/reseq/reseq.egg-info to /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/python3.12/site-packages/reseq-0.0.0-py3.12.egg-info
+running install_scripts
+Installing python_executable_name script to /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/reseq
+Installing temperature_logger script to /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/reseq
+Installing temperature_sensor script to /home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/install/reseq/lib/reseq
+writing list of installed files to '/home/nima155/software_recruitment/ROS2/ros2_ws/src/reseq/build/reseq/install.log'

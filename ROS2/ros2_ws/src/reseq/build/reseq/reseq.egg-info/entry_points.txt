@@ -1,0 +1,4 @@
+[console_scripts]
+python_executable_name = pkg_name.python_executable_name:main
+temperature_logger = reseq.temperature_logger:main
+temperature_sensor = reseq.temperature_sensor:main

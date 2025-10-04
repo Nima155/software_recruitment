@@ -1,0 +1,1 @@
+recording temperature: std_msgs.msg.Float32(data=69.87584686279297)recording temperature: std_msgs.msg.Float32(data=71.70147705078125)recording temperature: std_msgs.msg.Float32(data=65.00446319580078)
