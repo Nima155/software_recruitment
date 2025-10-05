@@ -1,3 +1,4 @@
+#include "fakeArduino.hpp"
 
 void setup() {
 	Serial.begin(19200);
